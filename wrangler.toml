@@ -1,0 +1,20 @@
+name = "date-request-api"
+compatibility_date = "2024-08-04"
+
+[vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiM2Y0OGJmNDctOTg2My00ZGU1LWE4NzEtODVkNzRlNTc5NTA3IiwidGVuYW50X2lkIjoiMWI4YTFjMzZlYTBjMDQ2NzU2NGVhOTNmMGQ5YzM4MWViMjlhNjc4MmNjZjI2ODc1M2NkNDc4MzBlODEwOWE3MCIsImludGVybmFsX3NlY3JldCI6Ijk1MDE5OWQ4LWEyZmMtNDA3OS1iNjE2LTA3MTc4YzZjOTIxOSJ9.oVSznDCgUWb3odKPOhb6QJsrQAz7DD9wnUOwWZAVV4Y"
+#DIRECT_URL="postgresql://Suvam:5gQCt4pMBiue@ep-super-violet-a51pl5hi.us-east-2.aws.neon.tech/date-request?sslmode=require
+
+# id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+# [[r2_buckets]]
+# binding = "MY_BUCKET"
+# bucket_name = "my-bucket"
+
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "my-database"
+# database_id = ""
+
+# [ai]
+# binding = "AI"

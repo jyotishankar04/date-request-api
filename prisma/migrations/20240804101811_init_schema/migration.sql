@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Patner" ALTER COLUMN "isApproved" DROP DEFAULT,
+ALTER COLUMN "isApproved" SET DATA TYPE TEXT;
